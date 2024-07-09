@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "neworesplusreworked",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "NewOresPlusReworked",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://mayavampiremods.com",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Johnnycheck/NewOresPlusReworked-Fabric"
 	},
 	"license": "All Rights Reserved",
 	"icon": "assets/neworesplusreworked/icon.png",
