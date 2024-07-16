@@ -1,0 +1,25 @@
+{
+  "item.neworesplusreworked.sapphire": "Sapphire",
+  "item.neworesplusreworked.raw_sapphire": "Raw Sapphire",
+  "item.neworesplusreworked.raw_tin": "Raw Tin",
+  "item.neworesplusreworked.tin_ingot": "Tin Ingot",
+  "item.neworesplusreworked.sapphire_sword": "Sapphire Sword",
+  "item.neworesplusreworked.sapphire_hoe": "Sapphire Hoe",
+  "item.neworesplusreworked.sapphire_shovel": "Sapphire Shovel",
+  "item.neworesplusreworked.sapphire_axe": "Sapphire Axe",
+  "item.neworesplusreworked.sapphire_pickaxe": "Sapphire Pickaxe",
+
+
+  "block.neworesplusreworked.sapphire_block": "Block of Sapphire",
+  "block.neworesplusreworked.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.neworesplusreworked.raw_tin_block": "Block of Raw Tin",
+  "block.neworesplusreworked.tin_block": "Block of Tin",
+  "block.neworesplusreworked.tin_ore": "Tin Ore",
+  "block.neworesplusreworked.sapphire_ore": "Sapphire Ore",
+  "block.neworesplusreworked.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.neworesplusreworked.endstone_sapphire_ore": "EndStone Sapphire Ore",
+  "block.neworesplusreworked.nether_sapphire_ore": "Nether Sapphire Ore",
+
+
+  "itemgroup.sapphire": "NewOresPlusReworked"
+}

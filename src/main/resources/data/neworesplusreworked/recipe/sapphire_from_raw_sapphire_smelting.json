@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "neworesplusreworked:raw_sapphire"
+  },
+  "result": {
+    "id": "neworesplusreworked:sapphire"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

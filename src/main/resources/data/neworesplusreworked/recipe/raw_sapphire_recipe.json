@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "neworesplusreworked:raw_sapphire_block"
+    }
+  ],
+  "result": {
+    "id": "neworesplusreworked:raw_sapphire",
+    "count": 9
+  }
+
+}

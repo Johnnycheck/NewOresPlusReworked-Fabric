@@ -1,14 +1,14 @@
 {
 	"schemaVersion": 1,
 	"id": "neworesplusreworked",
-	"version": "1.0.0",
+	"version": "${version}",
 	"name": "NewOresPlusReworked",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Adds More Ores to the games!",
 	"authors": [
-		"Me!"
-	],
+		"MayaVampire!"
+    ],
 	"contact": {
-		"homepage": "https://mayavampiremods.com",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/neworesplusreworked",
 		"sources": "https://github.com/Johnnycheck/NewOresPlusReworked-Fabric"
 	},
 	"license": "All Rights Reserved",
@@ -17,7 +17,10 @@
 	"entrypoints": {
 		"main": [
 			"net.mayavampire.neworesplusreworked.NewOresPlusReworked"
-		],
+			],
+		"client": [
+				"net.mayavampire.neworesplusreworked.NewOresPlusreworkedclient"
+			],
 		"fabric-datagen": [
 			"net.mayavampire.neworesplusreworked.NewOresPlusReworkedDataGenerator"
 		]

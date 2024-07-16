@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+      "#": {
+        "item": "neworesplusreworked:raw_sapphire"
+      }
+  },
+  "result": {
+    "id": "neworesplusreworked:raw_sapphire_block"
+  }
+}
