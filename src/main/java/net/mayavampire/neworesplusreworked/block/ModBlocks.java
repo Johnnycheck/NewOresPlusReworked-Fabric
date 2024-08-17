@@ -30,8 +30,7 @@ public class ModBlocks {
     public static Block TIN_ORE = registerBlock ( "tin_ore",
             new ExperienceDroppingBlock( UniformIntProvider.create(2, 4), AbstractBlock.Settings.copy ( IRON_ORE).requiresTool().strength(3.0F, 3.0F)));
 
-
-
+    
 
 
 

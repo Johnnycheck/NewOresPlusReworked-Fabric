@@ -15,6 +15,9 @@
 	"icon": "assets/neworesplusreworked/icon.png",
 	"environment": "*",
 	"entrypoints": {
+		"entrypoints": {
+			"modmenu": [ "net.mayavampire.neworesplusreworked.ModMenuApiImpl" ]
+		},
 		"main": [
 			"net.mayavampire.neworesplusreworked.NewOresPlusReworked"
 			],
@@ -29,8 +32,8 @@
 		"neworesplusreworked.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.15.11",
-		"minecraft": "~1.21",
+		"fabricloader": ">=0.16.2",
+		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
 	},

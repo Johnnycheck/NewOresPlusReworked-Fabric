@@ -13,10 +13,6 @@ public class NewOresPlusReworkedDataGenerator implements DataGeneratorEntrypoint
 	public void onInitializeDataGenerator(FabricDataGenerator fabricDataGenerator) {
 		FabricDataGenerator.Pack pack = fabricDataGenerator.createPack();
 
-		pack.addProvider( ModLootTableProvider::new);
-		pack.addProvider( ModModelProvider::new);
-		pack.addProvider( ModRecipeProvider::new );
-		pack.addProvider( ModPoiTagProvider::new);
 		pack.addProvider( ModWorldGenerator::new);
 	}
 

@@ -1,6 +1,6 @@
 {
-  "values": [
-    "neworesplusreworked:sapphire_block",
+  "replace": true,
+  "values": ["neworesplusreworked:sapphire_block",
     "neworesplusreworked:raw_sapphire_block",
     "neworesplusreworked:sapphire_ore",
     "neworesplusreworked:deepslate_sapphire_ore",
